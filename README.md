@@ -32,5 +32,17 @@
   </tr>
 </table>
 
+#### 3) 글쓰기
+<table>
+  <tr>
+    <td>글쓰기 화면</td>
+    <td>게시물 수정 화면</td>
+  </tr>
+  <tr>
+    <td><img src = "img/글쓰기01.png" width = "320" height = 180"</td>
+    <td><img src = "img/글쓰기02.png" width = "320" height = 180"</td>
+  </tr>
+</table>
+
 
 
