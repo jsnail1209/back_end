@@ -4,7 +4,7 @@
 
 <img src = "img/게시판.png" width="640" height="360">
 
-구현한 기능
+## 구현한 기능
 
 로그인
 <table>
