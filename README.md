@@ -5,7 +5,18 @@
 <img src = "img/게시판.png" width="640" height="360">
 
 구현한 기능
+
 로그인
+<table>
+  <tr>
+    <td>로그인 화면td>
+    <td>로그인 성공 화면</td>
+  </tr>
+  <tr>
+    <td><img src = "img/로그인1.png" width = "320" height = 180"</td>
+    <td><img src = "img/로그인2.png" width = "320" height = 180"</td>
+  </tr>
+</table>
 
 
 
