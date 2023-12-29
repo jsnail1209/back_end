@@ -20,5 +20,17 @@
   </tr>
 </table>
 
+#### 2) 로그인/로그아웃
+<table>
+  <tr>
+    <td>검색 전 화면</td>
+    <td>검색 후 화면</td>
+  </tr>
+  <tr>
+    <td><img src = "img/검색01.png" width = "320" height = 180"</td>
+    <td><img src = "img/검색02.png" width = "320" height = 180"</td>
+  </tr>
+</table>
+
 
 
