@@ -13,8 +13,8 @@
     <td>로그인 성공 화면</td>
   </tr>
   <tr>
-    <td><img src = "img/로그인1.png" width = "320" height = 180"</td>
-    <td><img src = "img/로그인2.png" width = "320" height = 180"</td>
+    <td><img src = "img/로그인01.png" width = "320" height = 180"</td>
+    <td><img src = "img/로그인02.png" width = "320" height = 180"</td>
   </tr>
 </table>
 
