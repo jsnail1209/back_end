@@ -6,15 +6,17 @@
 
 ## 구현한 기능
 
-1. 로그인.로그아웃
+1. 로그인/로그아웃
 <table>
   <tr>
     <td>로그인 화면</td>
     <td>로그인 성공 화면</td>
+    <td>로그인 실패 화면</td>
   </tr>
   <tr>
     <td><img src = "img/로그인01.png" width = "320" height = 180"</td>
     <td><img src = "img/로그인02.png" width = "320" height = 180"</td>
+    <td><img src = "img/로그인03.png" width = "320" height = 180"</td>
   </tr>
 </table>
 
