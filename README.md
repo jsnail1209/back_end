@@ -1,8 +1,8 @@
 # JSP 실습: 게시판 만들기 프로젝트
 
-<img src = "img/게시판.png" width="640" height="360">
-
 실습기간: 2023.03 ~ 2023.06
+
+<img src = "img/게시판.png" width="640" height="360">
 
 구현한 기능
 로그인
